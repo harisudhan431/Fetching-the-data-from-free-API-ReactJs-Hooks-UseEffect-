@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/css/main.ff49f826.css",
-    "main.js": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/js/main.684bb19e.js",
-    "static/js/453.ecd57499.chunk.js": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/js/453.ecd57499.chunk.js",
-    "index.html": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/index.html",
-    "main.ff49f826.css.map": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/css/main.ff49f826.css.map",
-    "main.684bb19e.js.map": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/js/main.684bb19e.js.map",
-    "453.ecd57499.chunk.js.map": "/harisudhan431/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-.git/static/js/453.ecd57499.chunk.js.map"
+    "main.css": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/css/main.ff49f826.css",
+    "main.js": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/js/main.5e90489c.js",
+    "static/js/453.ecd57499.chunk.js": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/js/453.ecd57499.chunk.js",
+    "index.html": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/index.html",
+    "main.ff49f826.css.map": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/css/main.ff49f826.css.map",
+    "main.5e90489c.js.map": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/js/main.5e90489c.js.map",
+    "453.ecd57499.chunk.js.map": "/Fetching-the-data-from-free-API-ReactJs-Hooks-UseEffect-/static/js/453.ecd57499.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff49f826.css",
-    "static/js/main.684bb19e.js"
+    "static/js/main.5e90489c.js"
   ]
 }
